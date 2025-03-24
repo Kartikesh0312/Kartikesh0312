@@ -1,5 +1,4 @@
-## Hi there 👋
-<h1 align="center"> Hi! 👋</h1>
+<h1 align="center"> Hi there 👋</h1>
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&color=yellow&duration=4000&pause=400&center=true&vCenter=true&width=900&lines=I%27m+Kartikesh+Chatti;Data+Enthusiast;Student+%40+Suny+Buffalo+University;Welcome+to+my+Github+Profile!" alt="Typing SVG" />
 </a>
