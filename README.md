@@ -6,6 +6,7 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/kartikesh-chatti/" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-%2320232a?logo=linkedin&logoColor=0A66C2&style=for-the-badge" style="vertical-align:center" /></a>
 <a href="mailto:kartikesh0312@gmail.com" target="_blank"><img alt="" src="https://img.shields.io/badge/Gmail-%2320232a?style=for-the-badge&logo=gmail&logoColor=white" style="vertical-align:center" /></a>
+<a href="https://medium.com/@kartikesh0312" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/Medium-%2320232a?style=for-the-badge&logo=medium&logoColor=white" style="vertical-align:center" /></a>
 </p>
 
 [Visit Full Site](https://kartikesh0312.github.io)   
