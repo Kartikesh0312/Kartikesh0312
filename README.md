@@ -9,8 +9,6 @@
 </p>
 
 [Visit Full Site](https://kartikesh0312.github.io)   
-
-[visit my Medium blog](https://medium.com/@kartikesh0312/dynamic-pricing-project-ab5bd5e67b56)
 <!--
 **Kartikesh0312/Kartikesh0312** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
